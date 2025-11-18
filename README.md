@@ -49,7 +49,7 @@ Backend unit tests (Jest + Supertest)
 
 How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/YOUR_USERNAME/mini-image-gallery.git
+git clone https://github.com/srivasmayank/Markopolo-ai-assignment.git mini-image-gallery
 cd mini-image-gallery
 
 🔧 Backend Setup (Node.js + Express)
